@@ -1,2 +1,2 @@
 # cs492-Final-Project
-android app
+Android food app
